@@ -29,3 +29,18 @@ This flow chart shows how we find the value of **K** for K-means clustering algo
 Segmentation results. From top to bottom: (a) Original images, (b) segmentation results of proposed algorithm.
 
 ![alt text](https://github.com/Mr-TalhaIlyas/SEEK-A-Framework-of-Superpixel-Learning-with-CNN-Features-for-Unsupervised-Segmentation/blob/master/screens/op.jpg?raw=true)
+
+#### **_Citation_**
+If you like to use our work please consider citing us;
+
+@article{ilyas2020seek,
+  title={SEEK: A Framework of Superpixel Learning with CNN Features for Unsupervised Segmentation},
+  author={Ilyas, Talha and Khan, Abbas and Umraiz, Muhammad and Kim, Hyongsuk},
+  journal={Electronics},
+  volume={9},
+  number={3},
+  pages={383},
+  year={2020},
+  publisher={Multidisciplinary Digital Publishing Institute}
+
+OR via [google scholar](https://scholar.google.com/citations?hl=en&user=HYNOyyAAAAAJ)
