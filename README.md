@@ -32,7 +32,7 @@ Segmentation results. From top to bottom: (a) Original images, (b) segmentation 
 
 #### **_Citation_**
 If you like to use our work please consider citing us;
-
+```
 @article{ilyas2020seek,
   title={SEEK: A Framework of Superpixel Learning with CNN Features for Unsupervised Segmentation},
   author={Ilyas, Talha and Khan, Abbas and Umraiz, Muhammad and Kim, Hyongsuk},
@@ -42,5 +42,5 @@ If you like to use our work please consider citing us;
   pages={383},
   year={2020},
   publisher={Multidisciplinary Digital Publishing Institute}
-
+```
 OR via [google scholar](https://scholar.google.com/citations?hl=en&user=HYNOyyAAAAAJ)
