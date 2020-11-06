@@ -11,21 +11,21 @@ Supervised semantic segmentation algorithms have been a hot area of exploration 
 ### Network Architecture
 
 Following images shows Complete Network Architecture: Here, contrast and texture enhancement **(CTE)-Block represents** the contrast and texture enhancement block, **CE Loss** is the cross-entropy loss, complete architecture of **SE-Block** is explained in Figure 2, black arrows show the forward pass, and blue arrows show the backward error propagation.
-For details on architecture kindly [visit here](https://www.mdpi.com/2079-9292/9/3/383/htm)
+For details on architecture kindly [visit here](https://www.mdpi.com/2079-9292/9/3/383/htm) .
 
-[]netrwork image
+![alt text](https://github.com/Mr-TalhaIlyas/SEEK-A-Framework-of-Superpixel-Learning-with-CNN-Features-for-Unsupervised-Segmentation/blob/master/screens/network.jpg?raw=true)
 
 ### Algorithm 1 (Unsupervised Semantic Segmentation)
 
-[]
+![alt text](https://github.com/Mr-TalhaIlyas/SEEK-A-Framework-of-Superpixel-Learning-with-CNN-Features-for-Unsupervised-Segmentation/blob/master/screens/alg_1.jpg?raw=true)
 
 ### Algorithm 2 (K nearest neighbour)
 
 This flow chart shows how we find the value of **K** for K-means clustering algorithm, implementation is provided in code.
-[]
+![alt text](https://github.com/Mr-TalhaIlyas/SEEK-A-Framework-of-Superpixel-Learning-with-CNN-Features-for-Unsupervised-Segmentation/blob/master/screens/flow.png?raw=true)
 
 ### Example Output
 
 Segmentation results. From top to bottom: (a) Original images, (b) segmentation results of proposed algorithm.
 
-[]
+![alt text](https://github.com/Mr-TalhaIlyas/SEEK-A-Framework-of-Superpixel-Learning-with-CNN-Features-for-Unsupervised-Segmentation/blob/master/screens/op.jpg?raw=true)
