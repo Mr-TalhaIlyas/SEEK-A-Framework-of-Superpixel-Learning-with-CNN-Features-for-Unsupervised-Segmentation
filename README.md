@@ -1,8 +1,8 @@
 # SEEK: A Framework of Superpixel Learning with CNN Features for Unsupervised Segmentation
 
-This repo explains the working of our Unsupervised Segemntaion Algorithm published in  [**_Electronics (MDPI)_**](https://www.mdpi.com/journal/electronics) journal.
+This repo explains the working of our Unsupervised Segemntaion Algorithm published in  [Electronics (MDPI)](https://www.mdpi.com/journal/electronics) journal.
 
-You can access the [full paper here](https://www.mdpi.com/2079-9292/9/3/383/htm).
+You can access the [**_full paper here_**](https://www.mdpi.com/2079-9292/9/3/383/htm).
 
 ## Abstract
 
