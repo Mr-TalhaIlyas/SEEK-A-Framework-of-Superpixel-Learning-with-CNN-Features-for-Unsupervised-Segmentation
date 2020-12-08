@@ -1,4 +1,5 @@
-# SEEK: A Framework of Superpixel Learning with CNN Features for Unsupervised Segmentation
+![alt text](https://github.com/Mr-TalhaIlyas/SEEK-A-Framework-of-Superpixel-Learning-with-CNN-Features-for-Unsupervised-Segmentation/blob/master/screens/mdpi2.png)
+# SEEK: A Framework of Superpixel Learning with CNN Features for Unsupervised Segmentation 
 
 This repo explains the working of our Unsupervised Segemntaion Algorithm published in  [Electronics (MDPI)](https://www.mdpi.com/journal/electronics) journal.
 
