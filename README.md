@@ -1,4 +1,5 @@
 [![CC BY 4.0][cc-by-shield]][cc-by]
+<img alt="PyTorch" src="https://img.shields.io/badge/PyTorch%20-%23EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white" />
 
 ![alt text](https://github.com/Mr-TalhaIlyas/SEEK-A-Framework-of-Superpixel-Learning-with-CNN-Features-for-Unsupervised-Segmentation/blob/master/screens/mdpi2.png)
 # SEEK: A Framework of Superpixel Learning with CNN Features for Unsupervised Segmentation 
